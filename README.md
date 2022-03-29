@@ -1,1 +1,1 @@
-# deep_learning_learning_while_making
+# deep_learning_study
